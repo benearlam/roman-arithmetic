@@ -4,7 +4,7 @@ Doing Clojure
 
 ## Usage
 
-run the rest
+lein midje
 
 ## License
 
