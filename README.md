@@ -1,10 +1,10 @@
 # roman-arithmetic
 
-A Clojure library designed to ... well, that part is up to you.
+Doing Clojure
 
 ## Usage
 
-FIXME
+run the rest
 
 ## License
 
